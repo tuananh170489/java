@@ -1,4 +1,4 @@
-# Install java from source
+# Install oracle-java from source
 ### Download java
 ```
 wget jdk-7u80-linux-x64.tar.gz
